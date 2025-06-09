@@ -11,9 +11,18 @@ This repository contains my Java solutions to various LeetCode problems.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
