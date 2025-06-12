@@ -22,6 +22,7 @@ This repository contains my Java solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0229-majority-element-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0567-permutation-in-string](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
@@ -32,6 +33,7 @@ This repository contains my Java solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
@@ -54,4 +56,12 @@ This repository contains my Java solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0567-permutation-in-string) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
