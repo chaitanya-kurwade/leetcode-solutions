@@ -32,6 +32,7 @@ This repository contains my Java solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Array
 |  |
@@ -79,4 +80,8 @@ This repository contains my Java solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
