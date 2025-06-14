@@ -37,6 +37,7 @@ This repository contains my Java solutions to various LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -65,6 +66,7 @@ This repository contains my Java solutions to various LeetCode problems.
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
@@ -79,9 +81,14 @@ This repository contains my Java solutions to various LeetCode problems.
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0060-permutation-sequence) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
