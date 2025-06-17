@@ -36,6 +36,7 @@ This repository contains my Java solutions to various LeetCode problems.
 | [0013-roman-to-integer](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
@@ -92,6 +93,7 @@ This repository contains my Java solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Radix Sort
 |  |
@@ -113,5 +115,6 @@ This repository contains my Java solutions to various LeetCode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
