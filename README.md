@@ -106,4 +106,12 @@ This repository contains my Java solutions to various LeetCode problems.
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
