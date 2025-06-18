@@ -14,6 +14,7 @@ This repository contains my Java solutions to various LeetCode problems.
 | [0005-longest-palindromic-substring](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -103,6 +104,7 @@ This repository contains my Java solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1013-fibonacci-number](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -111,6 +113,7 @@ This repository contains my Java solutions to various LeetCode problems.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0401-binary-watch](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
