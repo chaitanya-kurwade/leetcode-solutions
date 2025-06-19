@@ -43,6 +43,7 @@ This repository contains my Java solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0164-maximum-gap](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -74,6 +75,7 @@ This repository contains my Java solutions to various LeetCode problems.
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0164-maximum-gap](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -116,6 +118,7 @@ This repository contains my Java solutions to various LeetCode problems.
 | ------- |
 | [0022-generate-parentheses](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0401-binary-watch](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
