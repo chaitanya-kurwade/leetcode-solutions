@@ -38,6 +38,7 @@ This repository contains my Java solutions to various LeetCode problems.
 | [0060-permutation-sequence](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
@@ -48,6 +49,7 @@ This repository contains my Java solutions to various LeetCode problems.
 | [0189-rotate-array](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0486-predict-the-winner](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +100,7 @@ This repository contains my Java solutions to various LeetCode problems.
 | ------- |
 | [0060-permutation-sequence](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Radix Sort
 |  |
@@ -108,6 +111,7 @@ This repository contains my Java solutions to various LeetCode problems.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0486-predict-the-winner](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -125,4 +129,8 @@ This repository contains my Java solutions to various LeetCode problems.
 | ------- |
 | [0231-power-of-two](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0401-binary-watch) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
