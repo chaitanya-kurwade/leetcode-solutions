@@ -44,6 +44,7 @@ This repository contains my Java solutions to various LeetCode problems.
 | [0486-predict-the-winner](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/2050-count-good-numbers) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Array
 |  |
 | ------- |
@@ -142,4 +143,8 @@ This repository contains my Java solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 <!---LeetCode Topics End-->
