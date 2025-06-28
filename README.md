@@ -43,6 +43,7 @@ This repository contains my Java solutions to various LeetCode problems.
 | [0231-power-of-two](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1307-ugly-number-iii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/1307-ugly-number-iii) |
 | [2050-count-good-numbers](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Array
@@ -67,6 +68,7 @@ This repository contains my Java solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1307-ugly-number-iii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/1307-ugly-number-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -147,4 +149,12 @@ This repository contains my Java solutions to various LeetCode problems.
 |  |
 | ------- |
 | [2202-sum-of-k-mirror-numbers](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [1307-ugly-number-iii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/1307-ugly-number-iii) |
+## Number Theory
+|  |
+| ------- |
+| [1307-ugly-number-iii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/1307-ugly-number-iii) |
 <!---LeetCode Topics End-->
