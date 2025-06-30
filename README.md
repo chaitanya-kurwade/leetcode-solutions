@@ -42,6 +42,7 @@ This repository contains my Java solutions to various LeetCode problems.
 | [0189-rotate-array](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0866-rectangle-overlap](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1307-ugly-number-iii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/1307-ugly-number-iii) |
 | [2050-count-good-numbers](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/2050-count-good-numbers) |
@@ -157,4 +158,8 @@ This repository contains my Java solutions to various LeetCode problems.
 |  |
 | ------- |
 | [1307-ugly-number-iii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/1307-ugly-number-iii) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
