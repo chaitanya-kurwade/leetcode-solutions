@@ -20,6 +20,7 @@ This repository contains my Java solutions to various LeetCode problems.
 | [0151-reverse-words-in-a-string](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0551-student-attendance-record-i](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
