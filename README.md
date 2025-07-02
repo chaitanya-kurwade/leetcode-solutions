@@ -51,6 +51,7 @@ This repository contains my Java solutions to various LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0164-maximum-gap](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0164-maximum-gap) |
@@ -62,6 +63,7 @@ This repository contains my Java solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0344-reverse-string) |
