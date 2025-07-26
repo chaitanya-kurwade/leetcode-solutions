@@ -60,6 +60,7 @@ This repository contains my Java solutions to various LeetCode problems.
 | [0229-majority-element-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0486-predict-the-winner](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0792-binary-search](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@ This repository contains my Java solutions to various LeetCode problems.
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0792-binary-search](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0792-binary-search) |
 | [1307-ugly-number-iii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/1307-ugly-number-iii) |
 ## Divide and Conquer
 |  |
