@@ -56,6 +56,7 @@ This repository contains my Java solutions to various LeetCode problems.
 | [0035-search-insert-position](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -76,6 +77,7 @@ This repository contains my Java solutions to various LeetCode problems.
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0792-binary-search) |
 | [1307-ugly-number-iii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/1307-ugly-number-iii) |
