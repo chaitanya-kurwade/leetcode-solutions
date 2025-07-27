@@ -32,14 +32,16 @@ class Solution {
             */
             if ((mid % 2 == 0 && nums[mid] == nums[mid + 1]) ||
                     (mid % 2 == 1 && nums[mid] == nums[mid - 1])) {
-                // If mid is even and matches (mid+1), or mid is odd and matches (mid-1),
-                // it means we are in the "left part" where pairs are correctly formed.
-                // The single element must be on the right.
+                /* If mid is even and matches (mid+1), or mid is odd and matches (mid-1),
+                    it means we are in the "left part" where pairs are correctly formed.
+                    The single element must be on the right.
+                */
                 l = mid + 1;
             } else {
-                // Otherwise, we are in the "right part" where a pair is broken,
-                // or mid itself could be the single element (already checked above).
-                // The single element must be on the left (including mid).
+                /* Otherwise, we are in the "right part" where a pair is broken,
+                    or mid itself could be the single element (already checked above).
+                    The single element must be on the left (including mid).
+                */
                 r = mid - 1;
             }
         }
