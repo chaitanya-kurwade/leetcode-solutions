@@ -63,6 +63,7 @@ This repository contains my Java solutions to various LeetCode problems.
 | [0229-majority-element-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0486-predict-the-winner](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0540-single-element-in-a-sorted-array](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
@@ -81,6 +82,7 @@ This repository contains my Java solutions to various LeetCode problems.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/0792-binary-search) |
 | [1307-ugly-number-iii](https://github.com/chaitanya-kurwade/leetcode-solutions/tree/master/1307-ugly-number-iii) |
 ## Divide and Conquer
